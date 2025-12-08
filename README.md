@@ -8,13 +8,6 @@ Please explore my projects below.
 
 ---
 
-## 🌐 Social Media
-* [LinkedIn](https://www.linkedin.com/in/anatoli-petrosyants/)
-* [Upwork](https://www.upwork.com/freelancers/iosappdeveloper/)
-* [Email](mailto:tolik.petrosyants@gmail.com)
-
----
-
 ## 📱 Apps | Professional
 
 ### [iris Dating – Let AI Find Your Match](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
@@ -93,6 +86,14 @@ Master’s Degree — Computer Science (2013–2015)
 
 **State Engineering University of Armenia**  
 Bachelor’s Degree — Microelectronics & Biomedical Devices (2005–2009)
+
+</details>
+
+<details>
+<summary><strong>🌐 Social Media</strong></summary>
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/anatoli-petrosyants/) | [Upwork](https://www.upwork.com/freelancers/iosappdeveloper/) | [Email](mailto:tolik.petrosyants@gmail.com)
 
 </details>
 
