@@ -5,17 +5,17 @@
   <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
 
-- 👋 Hi, I’m @AnatoliPetrosyants
+👋 Hi, I’m @AnatoliPetrosyants
 
-- 🛠️ Specialized in Swift, SwiftUI, and scalable iOS architectures
+🛠️ Specialized in Swift, SwiftUI, and scalable iOS architectures
 
-- 📱 Built 30+ production apps across multiple domains
+📱 Built 30+ production apps across multiple domains
 
-- 🧠 Strong focus on clean code, performance, and UX
+🧠 Strong focus on clean code, performance, and UX
 
-- 🌱 Currently exploring advanced system design and cross-platform integrations
+🌱 Currently exploring advanced system design and cross-platform integrations
 
-- 💼 Open to new opportunities
+💼 Open to new opportunities
 
 
 ## 📱 Apps | Professional
