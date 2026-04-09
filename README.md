@@ -1,10 +1,20 @@
 # 🚀 Anatoli Petrosyants — iOS Developer
 
-I’m Anatoli, an iOS developer with over 14 years of native iOS experience. I specialize in Swift, SwiftUI, Objective-C, and modern architectures such as MVVM, VIPER, Clean Swift (VIP), MVI, and TCA.  
-I’ve delivered more than 30 iOS apps across fintech, healthcare, e-commerce, and SaaS.  
-My focus is on building maintainable, high-performance applications with pixel-perfect UI and seamless user experiences.
+![GitHub Snake](https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake.svg)
 
-Please explore my projects below.
+---
+
+- 👋 Hi, I’m @AnatoliPetrosyants
+
+- 🛠️ Specialized in Swift, SwiftUI, and scalable iOS architectures
+
+- 📱 Built 30+ production apps across multiple domains
+
+- 🧠 Strong focus on clean code, performance, and UX
+
+- 🌱 Currently exploring advanced system design and cross-platform integrations
+
+- 💼 Open to new opportunities
 
 ---
 
