@@ -16,7 +16,7 @@
 🧠 Currently exploring system design, real-time communication, and cross-platform integrations
 
 💼 Open to new opportunities
-
+<br></br>
 
 ## 📱 Apps | Professional
 
