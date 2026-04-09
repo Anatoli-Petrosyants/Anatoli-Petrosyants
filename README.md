@@ -4,7 +4,6 @@
   <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake.svg#gh-light-mode-only">
   <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
----
 
 - 👋 Hi, I’m @AnatoliPetrosyants
 
@@ -18,7 +17,6 @@
 
 - 💼 Open to new opportunities
 
----
 
 ## 📱 Apps | Professional
 
@@ -43,7 +41,6 @@
 ### [Palettes Lab](https://apps.apple.com/us/app/palettes-lab/id6739775678)
 ![palettes](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/palettes.png)
 
----
 
 # 📄 Experience, Education & More
 
