@@ -1,19 +1,19 @@
 # 🚀 Anatoli Petrosyants — iOS Developer
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake.svg#gh-light-mode-only">
   <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
 
-👋 Hi, I’m @AnatoliPetrosyants
+👋 Hi, I’m Anatoli — a Senior iOS Engineer with 14+ years of experience building high-performance mobile apps.
 
-🛠️ Specialized in Swift, SwiftUI, and scalable iOS architectures
+🛠️ Expert in Swift, SwiftUI, and modern architectures (TCA, MVVM, Clean)
 
-📱 Built 30+ production apps across multiple domains
+📱 Delivered 30+ production apps, including products with 2M+ users
 
-🧠 Strong focus on clean code, performance, and UX
+⚡ Strong focus on performance, scalability, and clean architecture
 
-🌱 Currently exploring advanced system design and cross-platform integrations
+🧠 Currently exploring system design, real-time communication, and cross-platform integrations
 
 💼 Open to new opportunities
 
