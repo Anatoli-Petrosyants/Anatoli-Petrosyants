@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
 
-👋 Hi, I’m Anatoli — a Senior iOS Engineer with 14+ years of experience building high-performance mobile apps.
+👋 Hi, I’m Anatoli — a iOS Developer with 14+ years of experience building high-performance mobile apps.
 
 🛠️ Expert in Swift, SwiftUI, and modern architectures (TCA, MVVM, Clean)
 
