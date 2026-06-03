@@ -18,25 +18,25 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 ## 📱 Apps | Professional
 
 ### [iris Dating – Let AI Find Your Match](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
-![iris](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/iris.png)
+[![iris](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/iris.png)](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
 
 ### [iFIT for Equipment](https://apps.apple.com/us/app/ifit-for-equipment/id1274601042)
-![ifit](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/ifit.png)
+[![ifit](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/ifit.png)](https://apps.apple.com/us/app/ifit-for-equipment/id1274601042)
 
 ### [FivePointFive: Breathwork](https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436)
-![5p5](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/5p5.png)
+[![5p5](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/5p5.png)](https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436)
 
 ### [Easy Metronome](https://apps.apple.com/us/app/easy-metronome/id6459476235)
-![metronome](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/metronome.png)
+[![metronome](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/metronome.png)](https://apps.apple.com/us/app/easy-metronome/id6459476235)
 
 ### [Luep](https://apps.apple.com/us/app/luep/id1618214074)
-![luep](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/luep.png)
+[![luep](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/luep.png)](https://apps.apple.com/us/app/luep/id1618214074)
 
 ### [Parcel Tracker - Mailroom](https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064)
-![parceltracker](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/parceltracker.png)
+[![parceltracker](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/parceltracker.png)](https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064)
 
 ### [Palettes Lab](https://apps.apple.com/us/app/palettes-lab/id6739775678)
-![palettes](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/palettes.png)
+[![palettes](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/palettes.png)](https://apps.apple.com/us/app/palettes-lab/id6739775678)
 
 
 ## 📬 Contact & CV
@@ -51,7 +51,7 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
   <a href="mailto:tolik.petrosyants@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/cv.pdf">
+  <a href="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Resume/resume_anatoli_petrosyants.pdf">
     <img src="https://img.shields.io/badge/View_CV-2C2C2C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
@@ -62,9 +62,15 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 <details>
 <summary><strong>💼 Experience</strong></summary>
 <br>
+### iOS Developer — iFIT Workouts  
+**2025/06 – 2026/06**  
+- Contributing to the iFIT fitness platform's Apple Watch app using the WatchConnectivity framework  
+- Built heart rate collection and live workout session flows with HealthKit  
+- Supporting 10,000+ on-demand workouts across cardio, strength, cycling, yoga & HIIT  
+- Platform filmed across all seven continents, used by millions worldwide
 
 ### iOS Developer / Team Lead — Iris Dating  
-**2022/05 – Present**  
+**2022/05 – 2025/05**  
 - Leading the iOS team for the next-gen AI-powered dating app "iris"  
 - Migrated UIKit + RxSwift + MVVM codebase to SwiftUI + TCA  
 - Developed AI training model to improve user engagement  
