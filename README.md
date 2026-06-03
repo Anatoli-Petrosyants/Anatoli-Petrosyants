@@ -58,7 +58,6 @@
     <img src="https://img.shields.io/badge/Download_CV-2C2C2C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
-<br></br>
 
 ## 📄 Experience, Education & More
 
