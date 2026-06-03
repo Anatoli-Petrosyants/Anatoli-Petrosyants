@@ -14,29 +14,75 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 - 🤖 **AI-assisted workflow:** shipping faster with Claude Code & Codex
 - 💼 Open to new opportunities — let’s build something great
 
-
 ## 📱 Apps | Professional
 
-### [iris Dating – Let AI Find Your Match](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
-[![iris](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/iris.png)](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
-
-### [iFIT for Equipment](https://apps.apple.com/us/app/ifit-for-equipment/id1274601042)
-[![ifit](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/ifit.png)](https://apps.apple.com/us/app/ifit-for-equipment/id1274601042)
-
-### [FivePointFive: Breathwork](https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436)
-[![5p5](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/5p5.png)](https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436)
-
-### [Easy Metronome](https://apps.apple.com/us/app/easy-metronome/id6459476235)
-[![metronome](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/metronome.png)](https://apps.apple.com/us/app/easy-metronome/id6459476235)
-
-### [Luep](https://apps.apple.com/us/app/luep/id1618214074)
-[![luep](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/luep.png)](https://apps.apple.com/us/app/luep/id1618214074)
-
-### [Parcel Tracker - Mailroom](https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064)
-[![parceltracker](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/parceltracker.png)](https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064)
-
-### [Palettes Lab](https://apps.apple.com/us/app/palettes-lab/id6739775678)
-[![palettes](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/palettes.png)](https://apps.apple.com/us/app/palettes-lab/id6739775678)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319">
+        <b>iris Dating</b>
+        <br><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/iris.png" width="100%">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/us/app/ifit-for-equipment/id1274601042">
+        <b>iFIT for Equipment</b>
+        <br><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/ifit.png" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436">
+        <b>FivePointFive: Breathwork</b>
+        <br><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/5p5.png" width="100%">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/us/app/easy-metronome/id6459476235">
+        <b>Easy Metronome</b>
+        <br><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/metronome.png" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/us/app/luep/id1618214074">
+        <b>Luep</b>
+        <br><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/luep.png" width="100%">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064">
+        <b>Parcel Tracker</b>
+        <br><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/parceltracker.png" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/us/app/palettes-lab/id6739775678">
+        <b>Palettes Lab</b>
+        <br><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/palettes.png" width="100%">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/am/app/ctrltv/id6760845815">
+        <b>CtrlTV</b>
+        <br><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/palettes.png" width="100%">
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 
 ## 📬 Contact & CV
@@ -62,6 +108,7 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 <details>
 <summary><strong>💼 Experience</strong></summary>
 <br>
+
 ### iOS Developer — iFIT Workouts  
 **2025/06 – 2026/06**  
 - Contributing to the iFIT fitness platform's Apple Watch app using the WatchConnectivity framework  
