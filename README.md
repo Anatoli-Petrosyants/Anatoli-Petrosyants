@@ -1,21 +1,17 @@
-# Hey there! 👋
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake.svg#gh-light-mode-only">
   <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
 
-### 👋 Hi, I’m Anatoli — Senior iOS Developer & Team Lead
+# Hey there! 👋, I’m Anatoli - iOS Developer
 
 **14+ years** building high-performance, well-architected mobile apps.
 
 **Core expertise**
-- 🧱 **Architecture:** TCA · MVVM · Clean · Modular / SPM
-- 🦅 **Language & UI:** Swift 6 · SwiftUI · UIKit · Combine · async/await
-- ⌚ **Apple ecosystem:** HealthKit · WatchConnectivity · WidgetKit · Swift Concurrency
-- 🧪 **Quality:** Unit/UI testing · Dependency Injection · CI/CD
-- 🚀 **Scale:** 30+ production apps · products with 2M+ users
-
+🧱 **Architecture:** TCA · MVVM · Clean · Modular / SPM
+🍏 **Apple frameworks:** Swift · SwiftUI · UIKit · Combine · async/await · HealthKit · WatchConnectivity · WidgetKit
+🧪 **Quality:** Unit/UI testing · Dependency Injection · CI/CD
+🚀 **Scale:** 30+ production apps · products with 2M+ users
 💼 Open to new opportunities — let’s build something great
 
 
