@@ -60,8 +60,7 @@
 </p>
 <br></br>
 
-
-# 📄 Experience, Education & More
+## 📄 Experience, Education & More
 
 <details>
 <summary><strong>💼 Experience</strong></summary>
@@ -114,14 +113,6 @@ Master’s Degree — Computer Science (2013–2015)
 
 **State Engineering University of Armenia**  
 Bachelor’s Degree — Microelectronics & Biomedical Devices (2005–2009)
-
-</details>
-
-<details>
-<summary><strong>🌐 Social Media</strong></summary>
-<br>
-
-[LinkedIn](https://www.linkedin.com/in/anatoli-petrosyants/) | [Upwork](https://www.upwork.com/freelancers/iosappdeveloper/) | [Email](mailto:tolik.petrosyants@gmail.com)
 
 </details>
 
