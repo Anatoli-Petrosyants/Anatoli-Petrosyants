@@ -18,25 +18,25 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 ## 📱 Apps | Professional
 
 ### [iris Dating – Let AI Find Your Match](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
-![iris](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/iris.png)
+[![iris](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/iris.png)](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
 
 ### [iFIT for Equipment](https://apps.apple.com/us/app/ifit-for-equipment/id1274601042)
-![ifit](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/ifit.png)
+[![ifit](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/ifit.png)](https://apps.apple.com/us/app/ifit-for-equipment/id1274601042)
 
 ### [FivePointFive: Breathwork](https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436)
-![5p5](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/5p5.png)
+[![5p5](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/5p5.png)](https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436)
 
 ### [Easy Metronome](https://apps.apple.com/us/app/easy-metronome/id6459476235)
-![metronome](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/metronome.png)
+[![metronome](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/metronome.png)](https://apps.apple.com/us/app/easy-metronome/id6459476235)
 
 ### [Luep](https://apps.apple.com/us/app/luep/id1618214074)
-![luep](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/luep.png)
+[![luep](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/luep.png)](https://apps.apple.com/us/app/luep/id1618214074)
 
 ### [Parcel Tracker - Mailroom](https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064)
-![parceltracker](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/parceltracker.png)
+[![parceltracker](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/parceltracker.png)](https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064)
 
 ### [Palettes Lab](https://apps.apple.com/us/app/palettes-lab/id6739775678)
-![palettes](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/palettes.png)
+[![palettes](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/palettes.png)](https://apps.apple.com/us/app/palettes-lab/id6739775678)
 
 
 ## 📬 Contact & CV
