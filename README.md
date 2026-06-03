@@ -18,6 +18,24 @@
 💼 Open to new opportunities
 <br></br>
 
+## 📬 Contact & CV
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anatoli-petrosyants/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/iosappdeveloper/">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="mailto:tolik.petrosyants@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/cv.pdf">
+    <img src="https://img.shields.io/badge/Download_CV-2C2C2C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+<br></br>
+
 ## 📱 Apps | Professional
 
 ### [iris Dating – Let AI Find Your Match](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
@@ -126,8 +144,3 @@ I enjoy hiking, FPV drones, and triathlon sports, including running, cycling, an
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+%F0%9F%91%8B" />
 </p>
-
-
-
-
-
