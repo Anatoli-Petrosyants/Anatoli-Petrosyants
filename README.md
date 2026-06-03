@@ -7,7 +7,6 @@
 
 **14+ years** building high-performance, well-architected mobile apps.
 
-**Core expertise**
 - 🧱 **Architecture:** TCA · MVVM · Clean · Modular / SPM
 - 🍏 **Apple frameworks:** Swift · SwiftUI · UIKit · Combine · async/await · HealthKit · WatchConnectivity · WidgetKit
 - 🧪 **Quality:** Unit/UI testing · Dependency Injection · CI/CD
