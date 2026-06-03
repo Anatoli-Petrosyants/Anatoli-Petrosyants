@@ -19,52 +19,52 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319">
-        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/iris.png" width="100%"><br>
-        <b>iris Dating</b>
+        <b>iris Dating</b><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/iris.png" width="100%">
       </a>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/ifit-for-equipment/id1274601042">
-        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/ifit.png" width="100%"><br>
-        <b>iFIT for Equipment</b>
+        <b>iFIT for Equipment</b><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/ifit.png" width="100%">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436">
-        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/5p5.png" width="100%"><br>
-        <b>FivePointFive: Breathwork</b>
+        <b>FivePointFive: Breathwork</b><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/5p5.png" width="100%">
       </a>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/easy-metronome/id6459476235">
-        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/metronome.png" width="100%"><br>
-        <b>Easy Metronome</b>
+        <b>Easy Metronome</b><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/metronome.png" width="100%">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/luep/id1618214074">
-        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/luep.png" width="100%"><br>
-        <b>Luep</b>
+        <b>Luep</b><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/luep.png" width="100%">
       </a>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064">
-        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/parceltracker.png" width="100%"><br>
-        <b>Parcel Tracker</b>
+        <b>Parcel Tracker</b><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/parceltracker.png" width="100%">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/palettes-lab/id6739775678">
-        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/palettes.png" width="100%"><br>
-        <b>Palettes Lab</b>
+        <b>Palettes Lab</b><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/palettes.png" width="100%">
       </a>
     </td>
     <td width="50%"></td>
