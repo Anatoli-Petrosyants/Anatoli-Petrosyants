@@ -18,7 +18,7 @@
 
 💼 Open to new opportunities — let’s build something great
 
-<br></br>
+
 ## 📱 Apps | Professional
 
 ### [iris Dating – Let AI Find Your Match](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
@@ -42,7 +42,7 @@
 ### [Palettes Lab](https://apps.apple.com/us/app/palettes-lab/id6739775678)
 ![palettes](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/palettes.png)
 
-<br></br>
+
 ## 📬 Contact & CV
 
 <p align="left">
@@ -60,7 +60,7 @@
   </a>
 </p>
 
-<br></br>
+
 ## 📄 Experience, Education & More
 
 <details>
