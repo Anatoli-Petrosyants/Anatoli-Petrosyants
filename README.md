@@ -51,7 +51,7 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
   <a href="mailto:tolik.petrosyants@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/cv.pdf">
+  <a href="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Resume/resume_anatoli_petrosyants.pdf">
     <img src="https://img.shields.io/badge/View_CV-2C2C2C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
