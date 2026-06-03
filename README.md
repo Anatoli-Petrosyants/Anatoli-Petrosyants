@@ -15,19 +15,19 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 - 💼 Open to new opportunities — let’s build something great
 
 
-## 📱 Apps | Professional
-
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319">
-        <b>iris Dating</b><br>
+        <b>iris Dating</b>
+        <br><br>
         <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/iris.png" width="100%">
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/ifit-for-equipment/id1274601042">
-        <b>iFIT for Equipment</b><br>
+        <b>iFIT for Equipment</b>
+        <br><br>
         <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/ifit.png" width="100%">
       </a>
     </td>
@@ -35,13 +35,15 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
   <tr>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436">
-        <b>FivePointFive: Breathwork</b><br>
+        <b>FivePointFive: Breathwork</b>
+        <br><br>
         <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/5p5.png" width="100%">
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/easy-metronome/id6459476235">
-        <b>Easy Metronome</b><br>
+        <b>Easy Metronome</b>
+        <br><br>
         <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/metronome.png" width="100%">
       </a>
     </td>
@@ -49,13 +51,15 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
   <tr>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/luep/id1618214074">
-        <b>Luep</b><br>
+        <b>Luep</b>
+        <br><br>
         <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/luep.png" width="100%">
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064">
-        <b>Parcel Tracker</b><br>
+        <b>Parcel Tracker</b>
+        <br><br>
         <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/parceltracker.png" width="100%">
       </a>
     </td>
@@ -63,7 +67,8 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
   <tr>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/palettes-lab/id6739775678">
-        <b>Palettes Lab</b><br>
+        <b>Palettes Lab</b>
+        <br><br>
         <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/palettes.png" width="100%">
       </a>
     </td>
