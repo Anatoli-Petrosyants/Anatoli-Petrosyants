@@ -17,26 +17,59 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 
 ## 📱 Apps | Professional
 
-### [iris Dating – Let AI Find Your Match](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
-[![iris](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/iris.png)](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
-
-### [iFIT for Equipment](https://apps.apple.com/us/app/ifit-for-equipment/id1274601042)
-[![ifit](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/ifit.png)](https://apps.apple.com/us/app/ifit-for-equipment/id1274601042)
-
-### [FivePointFive: Breathwork](https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436)
-[![5p5](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/5p5.png)](https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436)
-
-### [Easy Metronome](https://apps.apple.com/us/app/easy-metronome/id6459476235)
-[![metronome](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/metronome.png)](https://apps.apple.com/us/app/easy-metronome/id6459476235)
-
-### [Luep](https://apps.apple.com/us/app/luep/id1618214074)
-[![luep](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/luep.png)](https://apps.apple.com/us/app/luep/id1618214074)
-
-### [Parcel Tracker - Mailroom](https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064)
-[![parceltracker](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/parceltracker.png)](https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064)
-
-### [Palettes Lab](https://apps.apple.com/us/app/palettes-lab/id6739775678)
-[![palettes](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/palettes.png)](https://apps.apple.com/us/app/palettes-lab/id6739775678)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319">
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/iris.png" width="100%"><br>
+        <b>iris Dating</b>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/us/app/ifit-for-equipment/id1274601042">
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/ifit.png" width="100%"><br>
+        <b>iFIT for Equipment</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/us/app/fivepointfive-breathwork/id6469338436">
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/5p5.png" width="100%"><br>
+        <b>FivePointFive: Breathwork</b>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/us/app/easy-metronome/id6459476235">
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/metronome.png" width="100%"><br>
+        <b>Easy Metronome</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/us/app/luep/id1618214074">
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/luep.png" width="100%"><br>
+        <b>Luep</b>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/us/app/parcel-tracker-mailroom/id1491350064">
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/parceltracker.png" width="100%"><br>
+        <b>Parcel Tracker</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/us/app/palettes-lab/id6739775678">
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/palettes.png" width="100%"><br>
+        <b>Palettes Lab</b>
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 
 ## 📬 Contact & CV
