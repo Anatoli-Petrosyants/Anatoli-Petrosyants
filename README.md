@@ -40,7 +40,7 @@
 
 ### [Palettes Lab](https://apps.apple.com/us/app/palettes-lab/id6739775678)
 ![palettes](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/palettes.png)
-<br></br>
+
 
 ## 📬 Contact & CV
 
@@ -48,4 +48,100 @@
   <a href="https://www.linkedin.com/in/anatoli-petrosyants/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelanc
+  <a href="https://www.upwork.com/freelancers/iosappdeveloper/">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="mailto:tolik.petrosyants@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/cv.pdf">
+    <img src="https://img.shields.io/badge/Download_CV-2C2C2C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+<br></br>
+
+
+# 📄 Experience, Education & More
+
+<details>
+<summary><strong>💼 Experience</strong></summary>
+<br>
+
+### iOS Developer / Team Lead — Iris Dating  
+**2022/05 – Present**  
+- Leading the iOS team for the next-gen AI-powered dating app "iris"  
+- Migrated UIKit + RxSwift + MVVM codebase to SwiftUI + TCA  
+- Developed AI training model to improve user engagement  
+- Implemented chat using Twilio  
+- Integrated A/B testing and analytics  
+- Featured by TechCrunch & Forbes  
+- 2M+ downloads
+
+### Senior Principal Application Engineer — Oracle  
+**2018/11 – 2022/05**  
+- Developed and maintained screen-sharing SDK  
+- Used sockets, multithreading, and low-level optimizations  
+- Integrated SDK with clients like Bank of America, Motorola, Toyota  
+- Improved performance and scalability
+
+### iOS Developer — Rentecarlo  
+**2015/12 – 2017/12**  
+- Developed Rentecarlo iOS application  
+- Integrated Stripe payments  
+- Built custom UI components  
+- Added iPad layout support and improved performance
+
+### iOS Developer — Livelook  
+**2014/04 – 2015/12**  
+- Optimized image difference detection  
+- Added annotations, remote pointers, and more  
+- Company later acquired by Oracle
+
+### iOS & JavaScript Developer — Sourcio CJSC  
+**2012/04 – 2014/04**  
+- Built mobile ad templates for Google DFP  
+- Joined healthcare startup team  
+- Delivered 8 mobile apps focused on eye care
+
+</details>
+
+<details>
+<summary><strong>🎓 Education</strong></summary>
+<br>
+
+**Armenian National Academy of Sciences**  
+Master’s Degree — Computer Science (2013–2015)
+
+**State Engineering University of Armenia**  
+Bachelor’s Degree — Microelectronics & Biomedical Devices (2005–2009)
+
+</details>
+
+<details>
+<summary><strong>🌐 Social Media</strong></summary>
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/anatoli-petrosyants/) | [Upwork](https://www.upwork.com/freelancers/iosappdeveloper/) | [Email](mailto:tolik.petrosyants@gmail.com)
+
+</details>
+
+<details>
+<summary><strong>🧪 Experiments</strong></summary>
+<br>
+
+[Shop application built with TCA](https://github.com/Anatoli-Petrosyants/TCA_showcase_shop/)
+
+</details>
+
+<details>
+<summary><strong>🏔️ Hobbies</strong></summary>
+<br>
+
+I enjoy hiking, FPV drones, and triathlon sports, including running, cycling, and swimming. I’ve completed a Full Ironman and have also climbed Mount Ararat (5135m)**.
+
+</details>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+%F0%9F%91%8B" />
+</p>
