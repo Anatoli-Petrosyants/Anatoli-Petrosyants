@@ -1,12 +1,19 @@
-# 🚀 Anatoli Petrosyants — iOS Developer
+<p align="left">
+  <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+</p>
 
-I’m Anatoli, an iOS developer with over 14 years of native iOS experience. I specialize in Swift, SwiftUI, Objective-C, and modern architectures such as MVVM, VIPER, Clean Swift (VIP), MVI, and TCA.  
-I’ve delivered more than 30 iOS apps across fintech, healthcare, e-commerce, and SaaS.  
-My focus is on building maintainable, high-performance applications with pixel-perfect UI and seamless user experiences.
+# Hey there! 👋
 
-Please explore my projects below.
+I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-performance, well-architected apps since 2012.
 
----
+- 🧱 **Architecture:** TCA · MVVM · Clean · Modular / SPM
+- 🍏 **Apple frameworks:** Swift · SwiftUI · UIKit · Combine · async/await · HealthKit · WatchConnectivity · WidgetKit
+- 🧪 **Quality:** Unit/UI testing · Dependency Injection · CI/CD
+- 🚀 **Scale:** 30+ production apps · products with 2M+ users
+- 🤖 **AI-assisted workflow:** shipping faster with Claude Code & Codex
+- 💼 Open to new opportunities — let’s build something great
+
 
 ## 📱 Apps | Professional
 
@@ -31,9 +38,26 @@ Please explore my projects below.
 ### [Palettes Lab](https://apps.apple.com/us/app/palettes-lab/id6739775678)
 ![palettes](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/palettes.png)
 
----
 
-# 📄 Experience, Education & More
+## 📬 Contact & CV
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anatoli-petrosyants/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/iosappdeveloper/">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="mailto:tolik.petrosyants@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/cv.pdf">
+    <img src="https://img.shields.io/badge/View_CV-2C2C2C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+
+## 📄 Experience, Education & More
 
 <details>
 <summary><strong>💼 Experience</strong></summary>
@@ -90,14 +114,6 @@ Bachelor’s Degree — Microelectronics & Biomedical Devices (2005–2009)
 </details>
 
 <details>
-<summary><strong>🌐 Social Media</strong></summary>
-<br>
-
-[LinkedIn](https://www.linkedin.com/in/anatoli-petrosyants/) | [Upwork](https://www.upwork.com/freelancers/iosappdeveloper/) | [Email](mailto:tolik.petrosyants@gmail.com)
-
-</details>
-
-<details>
 <summary><strong>🧪 Experiments</strong></summary>
 <br>
 
@@ -114,9 +130,6 @@ I enjoy hiking, FPV drones, and triathlon sports, including running, cycling, an
 </details>
 
 
-
-
-
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+%F0%9F%91%8B" />
+</p>
