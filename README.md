@@ -62,6 +62,7 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 <details>
 <summary><strong>💼 Experience</strong></summary>
 <br>
+
 ### iOS Developer — iFIT Workouts  
 **2025/06 – 2026/06**  
 - Contributing to the iFIT fitness platform's Apple Watch app using the WatchConnectivity framework  
