@@ -5,19 +5,20 @@
   <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
 
-👋 Hi, I’m Anatoli — a iOS Developer with 14+ years of experience building high-performance mobile apps.
+### 👋 Hi, I’m Anatoli — Senior iOS Developer & Team Lead
 
-🛠️ Expert in Swift, SwiftUI, and modern architectures (TCA, MVVM, Clean)
+**14+ years** building high-performance, well-architected mobile apps.
 
-📱 Delivered 30+ production apps, including products with 2M+ users
+**Core expertise**
+- 🧱 **Architecture:** TCA · MVVM · Clean · Modular / SPM
+- 🦅 **Language & UI:** Swift 6 · SwiftUI · UIKit · Combine · async/await
+- ⌚ **Apple ecosystem:** HealthKit · WatchConnectivity · WidgetKit · Swift Concurrency
+- 🧪 **Quality:** Unit/UI testing · Dependency Injection · CI/CD
+- 🚀 **Scale:** 30+ production apps · products with 2M+ users
 
-⚡ Strong focus on performance, scalability, and clean architecture
+💼 Open to new opportunities — let’s build something great
 
-🧠 Currently exploring system design, real-time communication, and cross-platform integrations
-
-💼 Open to new opportunities
 <br></br>
-
 ## 📱 Apps | Professional
 
 ### [iris Dating – Let AI Find Your Match](https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319)
@@ -41,7 +42,7 @@
 ### [Palettes Lab](https://apps.apple.com/us/app/palettes-lab/id6739775678)
 ![palettes](https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/blob/main/Images/palettes.png)
 
-
+<br></br>
 ## 📬 Contact & CV
 
 <p align="left">
@@ -59,6 +60,7 @@
   </a>
 </p>
 
+<br></br>
 ## 📄 Experience, Education & More
 
 <details>
