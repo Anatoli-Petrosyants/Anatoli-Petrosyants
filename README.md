@@ -63,8 +63,15 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 <summary><strong>💼 Experience</strong></summary>
 <br>
 
+### iOS Developer — iFIT Workouts  
+**2025/06 – 2026/06**  
+- Contributing to the iFIT fitness platform's Apple Watch app using the WatchConnectivity framework  
+- Built heart rate collection and live workout session flows with HealthKit  
+- Supporting 10,000+ on-demand workouts across cardio, strength, cycling, yoga & HIIT  
+- Platform filmed across all seven continents, used by millions worldwide
+
 ### iOS Developer / Team Lead — Iris Dating  
-**2022/05 – Present**  
+**2022/05 – 2025/05**  
 - Leading the iOS team for the next-gen AI-powered dating app "iris"  
 - Migrated UIKit + RxSwift + MVVM codebase to SwiftUI + TCA  
 - Developed AI training model to improve user engagement  
