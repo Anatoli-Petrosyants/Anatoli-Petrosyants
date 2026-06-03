@@ -1,4 +1,4 @@
-# 🚀 Anatoli Petrosyants — iOS Developer
+# Hey there! 👋
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/vanguard9/vanguard9/output/github-contribution-grid-snake.svg#gh-light-mode-only">
