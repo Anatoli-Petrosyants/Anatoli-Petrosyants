@@ -19,19 +19,19 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://apps.apple.com/us/app/ifit-for-equipment/id1274601042">
+        <b>iFIT Workouts</b>
+        <br><br>
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/ifit.png" width="100%">
+      </a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/iris-dating-let-ai-find-match/id1446249319">
         <b>iris Dating</b>
         <br><br>
         <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/iris.png" width="100%">
       </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://apps.apple.com/us/app/ifit-for-equipment/id1274601042">
-        <b>iFIT for Equipment</b>
-        <br><br>
-        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/ifit.png" width="100%">
-      </a>
-    </td>
+    </td>    
   </tr>
   <tr>
     <td width="50%" valign="top">
