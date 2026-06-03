@@ -14,6 +14,7 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
 - 🤖 **AI-assisted workflow:** shipping faster with Claude Code & Codex
 - 💼 Open to new opportunities — let’s build something great
 
+## 📱 Apps | Professional
 
 <table>
   <tr>
