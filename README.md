@@ -77,7 +77,7 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
       <a href="https://apps.apple.com/am/app/ctrltv/id6760845815">
         <b>CtrlTV</b>
         <br><br>
-        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/palettes.png" width="100%">
+        <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/ctrtv.png" width="100%">
       </a>
     </td>
     <td width="50%"></td>
