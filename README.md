@@ -68,7 +68,7 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
   <tr>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/palettes-lab/id6739775678">
-        <b>Palettes Lab</b>
+        <b>Palettes Lab: Color Palette</b>
         <br><br>
         <img src="https://github.com/Anatoli-Petrosyants/Anatoli-Petrosyants/raw/main/Images/palettes.png" width="100%">
       </a>
