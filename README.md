@@ -7,11 +7,11 @@
 
 I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-performance, well-architected apps since 2012.
 
-- 🧱 **Architecture:** TCA · MVVM · Clean · Modular / SPM
-- 🍏 **Apple frameworks:** Swift · SwiftUI · UIKit · Combine · async/await · HealthKit · WatchConnectivity · WidgetKit
-- 🧪 **Quality:** Unit/UI testing · CI/CD
-- 🚀 **Scale:** 30+ production apps · products with 2M+ users
-- 🤖 **AI-assisted workflow:** Shipping faster with Claude Code & Codex
+- 🧱 **Architecture:** TCA · MVVM · Clean Architecture · Modular / SPM
+- 🍏 **Apple platforms:** Swift · SwiftUI · UIKit · Combine · Swift Concurrency · HealthKit · WatchConnectivity · WidgetKit
+- 🧪 **Quality:** Unit & UI testing · CI/CD
+- 🚀 **Track record:** 30+ production apps · products with 2M+ users
+- 🤖 **AI-assisted development:** Claude Code · Codex
 - 💼 **Open to new opportunities** Let’s build something great
 
 ## 📱 Apps | Professional
