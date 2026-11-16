@@ -91,7 +91,7 @@ I'm Anatoli, a product-oriented iOS Developer with **14+ years** building high-p
   <a href="https://www.linkedin.com/in/anatoli-petrosyants/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/iosappdeveloper/">
+  <a href="https://www.upwork.com/freelancers/mobileengineer">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
   <a href="mailto:tolik.petrosyants@gmail.com">
